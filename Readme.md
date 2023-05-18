@@ -1,4 +1,4 @@
-# Instructions to run Pizza Calculator
+# Instructions to run Pizza Calculator - Go Language
 
 This simple app can calculate which size of the pizza and number of pizzas you should order, when you go as a group
 
